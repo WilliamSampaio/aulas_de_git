@@ -1,3 +1,3 @@
 # Aulas de Git
 
-![./logo.png](Git Logo)
+![Git Logo](./logo.png)
